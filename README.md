@@ -25,7 +25,7 @@ Mystic Memory is a captivating and visually appealing web-based memory card game
 
 ## Demo
 
-https://github.com/AnkanMisra/Test/assets/143676135/2e9f395d-d262-4865-a1b5-e43b399a69a1
+https://www.youtube.com/watch?v=DB4REQEI2Vs
 
 ## Contributing
 
